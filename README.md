@@ -2,7 +2,7 @@
 
 ## Video Explanation
 
-Youtube [Link](https://www.youtube.com/watch?v=dgdBPDpnBjk)
+ [Youtube Link](https://www.youtube.com/watch?v=dgdBPDpnBjk)
 
 ## Installation
 ```sh
